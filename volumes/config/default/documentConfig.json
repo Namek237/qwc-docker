@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/qwc-services/qwc-document-service/raw/master/schemas/qwc-document-service.json",
+  "$schema": "https://github.com/qwc-services/qwc-document-service/raw/2025-lts/schemas/qwc-document-service.json",
   "service": "document",
   "config": {},
   "resources": {

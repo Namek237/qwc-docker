@@ -1,0 +1,8 @@
+1
+/var/lib/postgresql/docker
+1766839685
+5432
+/var/run/postgresql
+*
+    69511         0
+stopping
