@@ -2,3 +2,14 @@ docker-compose.yml
 api-gateway/nginx.conf
 .env
 volumes/config/__capabilities_cache
+
+# Environment files
+.env
+*.env
+
+# QGIS project files
+*.qgs
+*.qgz
+
+# PG service config file
+pg_service.conf
